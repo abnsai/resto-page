@@ -5,7 +5,7 @@ function createHomePage() {
   headline.textContent = 'Welcome to Our Restaurant!';
 
   const image = document.createElement('img');
-  image.src = 'https://via.placeholder.com/400x200';
+  image.src = 'https://picsum.photos/400/300';
   image.alt = 'Restaurant Image';
 
   const description = document.createElement('p');
